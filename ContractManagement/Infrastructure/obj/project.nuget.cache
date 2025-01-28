@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0Wp73GzA8U3qHquaLzVjDws21kyMwWTJJ8EW+kukxvt9d1OKpq1RqfGLg8TGxwxMJkZ800zegYVOejfbOvVEGA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Shwetey\\source\\repos\\ContractManagement\\Infrastructure\\Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Shwetey\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

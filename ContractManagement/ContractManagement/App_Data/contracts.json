@@ -1,0 +1,24 @@
+{
+  "contract1": {
+    "_id": "contract1",
+    "Name": "Contract A",
+    "CountryId": 4,
+    "Products": [
+      {
+        "_id": "product1",
+        "Elements": [
+          {
+            "_t": "VolumeRisk",
+            "Fee": "-33.53 Eur/Mwh",
+            "Price": null
+          },
+          {
+            "_t": "CrossSubsidization",
+            "Fee": null,
+            "Price": null
+          }
+        ]
+      }
+    ]
+  }
+}

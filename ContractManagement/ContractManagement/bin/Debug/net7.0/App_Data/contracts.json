@@ -1,0 +1,54 @@
+{
+  "contract1": {
+    "_id": "contract1",
+    "Name": "Contract A",
+    "CountryId": 4,
+    "Products": [
+      {
+        "_id": "product1",
+        "Elements": [
+          {
+            "_t": "VolumeRisk",
+            "Fee": "-33.53 Eur/Mwh",
+            "Price": null
+          },
+          {
+            "_t": "CrossSubsidization",
+            "Fee": null,
+            "Price": null
+          }
+        ]
+      },
+      {
+        "_id": "product2",
+        "Elements": [
+          {
+            "_t": "VolumeRisk",
+            "Fee": "-35.53 Eur/Mwh",
+            "Price": null
+          },
+          {
+            "_t": "test1",
+            "Fee": null,
+            "Price": null
+          }
+        ]
+      },
+      {
+        "_id": "product3",
+        "Elements": [
+          {
+            "_t": "VolumeRisk",
+            "Fee": "-35.53 Eur/Mwh",
+            "Price": null
+          },
+          {
+            "_t": "test3",
+            "Fee": null,
+            "Price": null
+          }
+        ]
+      }
+    ]
+  }
+}
