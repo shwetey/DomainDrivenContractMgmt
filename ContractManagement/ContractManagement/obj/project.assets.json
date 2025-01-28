@@ -559,11 +559,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Shwetey\\source\\repos\\ContractManagement\\ContractManagement\\ContractManagement.csproj",
+      "projectUniqueName": "C:\\Users\\Shwetey\\source\\Git\\DomainDrivenContractMgmt\\ContractManagement\\ContractManagement\\ContractManagement.csproj",
       "projectName": "ContractManagement",
-      "projectPath": "C:\\Users\\Shwetey\\source\\repos\\ContractManagement\\ContractManagement\\ContractManagement.csproj",
+      "projectPath": "C:\\Users\\Shwetey\\source\\Git\\DomainDrivenContractMgmt\\ContractManagement\\ContractManagement\\ContractManagement.csproj",
       "packagesPath": "C:\\Users\\Shwetey\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Shwetey\\source\\repos\\ContractManagement\\ContractManagement\\obj\\",
+      "outputPath": "C:\\Users\\Shwetey\\source\\Git\\DomainDrivenContractMgmt\\ContractManagement\\ContractManagement\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Shwetey\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -581,11 +581,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Shwetey\\source\\repos\\ContractManagement\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\Shwetey\\source\\repos\\ContractManagement\\Domain\\Domain.csproj"
+            "C:\\Users\\Shwetey\\source\\Git\\DomainDrivenContractMgmt\\ContractManagement\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\Shwetey\\source\\Git\\DomainDrivenContractMgmt\\ContractManagement\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\Shwetey\\source\\repos\\ContractManagement\\Infrastructure\\Infrastructure.csproj": {
-              "projectPath": "C:\\Users\\Shwetey\\source\\repos\\ContractManagement\\Infrastructure\\Infrastructure.csproj"
+            "C:\\Users\\Shwetey\\source\\Git\\DomainDrivenContractMgmt\\ContractManagement\\Infrastructure\\Infrastructure.csproj": {
+              "projectPath": "C:\\Users\\Shwetey\\source\\Git\\DomainDrivenContractMgmt\\ContractManagement\\Infrastructure\\Infrastructure.csproj"
             }
           }
         }

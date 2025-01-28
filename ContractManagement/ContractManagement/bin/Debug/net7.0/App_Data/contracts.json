@@ -18,36 +18,6 @@
             "Price": null
           }
         ]
-      },
-      {
-        "_id": "product2",
-        "Elements": [
-          {
-            "_t": "VolumeRisk",
-            "Fee": "-35.53 Eur/Mwh",
-            "Price": null
-          },
-          {
-            "_t": "test1",
-            "Fee": null,
-            "Price": null
-          }
-        ]
-      },
-      {
-        "_id": "product3",
-        "Elements": [
-          {
-            "_t": "VolumeRisk",
-            "Fee": "-35.53 Eur/Mwh",
-            "Price": null
-          },
-          {
-            "_t": "test3",
-            "Fee": null,
-            "Price": null
-          }
-        ]
       }
     ]
   }

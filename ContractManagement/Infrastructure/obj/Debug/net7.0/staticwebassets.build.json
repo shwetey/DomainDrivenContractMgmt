@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "Hash": "p6ahzChmAJ1mbYDYj1i1DLTMmntqhc/KXUF6jsrLR4I=",
+  "Hash": "X9xXFkgMpBIF0+uyJO5bgEvXdK1CavkqYnOEC4A+gg4=",
   "Source": "Infrastructure",
   "BasePath": "_content/Infrastructure",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [
     {
-      "Identity": "C:\\Users\\Shwetey\\source\\repos\\ContractManagement\\Domain\\Domain.csproj",
+      "Identity": "C:\\Users\\Shwetey\\source\\Git\\DomainDrivenContractMgmt\\ContractManagement\\Domain\\Domain.csproj",
       "Version": 2,
       "Source": "Domain",
       "GetPublishAssetsTargets": "ComputeReferencedStaticWebAssetsPublishManifest;GetCurrentProjectPublishStaticWebAssetItems",
